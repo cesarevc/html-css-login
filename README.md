@@ -1,3 +1,3 @@
 # Login
 
-![alt text](./assests/login.gif)
+![alt text](./assets/login.gif)
